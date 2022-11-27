@@ -1,5 +1,5 @@
 
-### <h2>नमस्ते (Namaste)🙏🏻, I'm Lalit Wag!
+### <h2>नमस्ते (Namaste)🙏🏻, I'm Lalit Wagh!
   </br>
 <img align="right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200"/>
 </br></br></br>
