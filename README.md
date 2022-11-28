@@ -1,7 +1,7 @@
 
 ### <h2>नमस्ते (Namaste)🙏🏻, I'm Lalit Wagh!
   </br>
-<img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="300" height="200"/>
+<img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300" height="200"/>
 </br></br></br>
 
 
