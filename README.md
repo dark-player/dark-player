@@ -1,16 +1,27 @@
 
 ### <h2>नमस्ते (Namaste)🙏🏻, I'm Lalit Wagh!
-  </br>
-<img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300" height="200"/>
-</br></br></br>
-
-
-### About me:
+ <table>
+   <tr>
+     <td>
+      </br>
+      <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300" height="200"/>
+       </br>    
+     </td>
+     <td>
+     <h2>About me:</h2> 
 
 - 🔭 I’m currently persuing **Hacking courses**.
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 - 🤔 I’m looking for **WEB Development**.
 - 😄 Spooky
+     
+     </td>
+   </tr>
+ </table>
+ </br></br>
+
+
+
 
 
 # *I am willing to collaborate as a team player building better code.*
@@ -32,9 +43,12 @@
 
 ### Some of the technologies I have worked with :
 
-![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/git-Black?logo=git&logoSize=large&color=black)
+![Static Badge](https://img.shields.io/badge/github-Black?logo=git&logoSize=large&color=black)
+![Static Badge](https://img.shields.io/badge/vs_code-black?logo=appveyor)
+![Static Badge](https://img.shields.io/badge/android_studio-Black?logo=Android%20Studio&logoSize=large&color=black)
+
+
 
 
 <p align="left">
