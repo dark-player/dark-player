@@ -34,9 +34,8 @@
 ![HTML5](https://img.shields.io/badge/html-HTML5-yellow)
 ![CSS3](https://img.shields.io/badge/css-CSS3-brightgreen)
 ![JavaScript](https://img.shields.io/badge/JS-Javascript-red)
-![React](https://img.shields.io/badge/React-React-blue)
-![Express](https://img.shields.io/badge/express-Express-blueviolet)
 ![Mongodb](https://img.shields.io/badge/Mongodb-mongodb-brightgreen)
+
 
 
 
