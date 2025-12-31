@@ -30,14 +30,11 @@
 
 
 ### I know more about- 
-
-![HTML5](https://img.shields.io/badge/html-HTML5-yellow)
-![CSS3](https://img.shields.io/badge/css-CSS3-brightgreen)
-![JavaScript](https://img.shields.io/badge/JS-Javascript-red)
-![Mongodb](https://img.shields.io/badge/Mongodb-mongodb-brightgreen)
-
-
-
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/JS-yellow">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-%231405b0">
+<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-%48e643">
+<img alt="Static Badge" src="https://img.shields.io/badge/SQL-%de2a99">
 
 
 ### Some of the technologies I have worked with :
