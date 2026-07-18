@@ -10,10 +10,7 @@
      <td>
      <h2>About me:</h2> 
 
-- 🔭 I’m currently pursuing a **B-tech in Computer Engineering**.
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
-- 🤔 I’m looking for **Python projects**.
-- 😄 Spooky
      
      </td>
    </tr>
